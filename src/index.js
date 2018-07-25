@@ -2,6 +2,7 @@ import { groupBy } from "lodash-es";
 import people from "./people";
 
 import './style.less';
+import './image-example';
 
 const managerGroups = groupBy(people, "manager");
 
