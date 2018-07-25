@@ -8,7 +8,7 @@
     "build": "webpack --mode production"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ginja the Ninja",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.0.0-beta.54",
