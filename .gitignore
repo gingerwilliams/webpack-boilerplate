@@ -6,3 +6,6 @@ package-lock.json
 
 #linter
 .jshintrc
+
+# settings
+.vscode
